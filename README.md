@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Mayuri-code
-- 👀 I’m interested in piano, C# coding, and Modding for Terraria
-- 🌱 I’m currently learning Piano and C#
-- 💞️ I’m looking to collaborate on my Terraria Mod
-- 📫 How to reach me: haltmannco.123@gmail.com
+
